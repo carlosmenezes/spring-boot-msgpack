@@ -1,0 +1,1 @@
+Sample integration using spring boot and [msgpack](http://mgspack.org)
